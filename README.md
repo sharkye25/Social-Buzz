@@ -40,4 +40,5 @@ The ad-hoc analysis provided valuable insights. Moving forward, consider scaling
 Thanks Forage for this Data Analytics and Visualization Job Simulation under Accenture
 
 Forage - https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb 
-Linkedin  - 
+
+Linkedin  - https://www.linkedin.com/posts/md-sharique-salim-a25539209_customerinsights-locationtrends-genderanalytics-activity-7128424599741939713-b5VA?utm_source=share&utm_medium=member_desktop
